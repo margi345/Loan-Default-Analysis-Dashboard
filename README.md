@@ -21,7 +21,7 @@ The result is a **Power BI (.pbix)** dashboard built for lenders, credit analyst
 
 | File | Description |
 |---|---|
-| `Loan_dataflow_project.pdf` | Power BI dashboard file containing the data model, DAX measures, and all report visuals |
+| `Loan_dataflow_project.pdf` | Power BI dashboard file containing all report visuals |
 | `README.md` | Project documentation (this file) — includes the full data dictionary below |
 
 > **Note:** The raw dataset (`Loan_default.csv`) and the original Excel data dictionary are **not included** in this repo to keep it lightweight. The full column definitions and dataset statistics are documented directly in the [Dataset](#-dataset) section below instead.
